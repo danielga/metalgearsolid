@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+$basetexture "models\mgs1\gns\gns"
+$surfaceprop flesh
+}
